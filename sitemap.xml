@@ -1,39 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://www.jshuana-equipment.com/</loc>
         <lastmod>2026-05-30</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
-        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.jshuana-equipment.com/"/>
     </url>
     <url>
-        <loc>https://www.jshuana-equipment.com/#about</loc>
+        <loc>https://www.jshuana-equipment.com/about.html</loc>
         <lastmod>2026-05-30</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://www.jshuana-equipment.com/#products</loc>
+        <loc>https://www.jshuana-equipment.com/products.html</loc>
         <lastmod>2026-05-30</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://www.jshuana-equipment.com/#strength</loc>
+        <loc>https://www.jshuana-equipment.com/equipment.html</loc>
+        <lastmod>2026-05-30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://www.jshuana-equipment.com/projects.html</loc>
+        <lastmod>2026-05-30</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://www.jshuana-equipment.com/credentials.html</loc>
         <lastmod>2026-05-30</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://www.jshuana-equipment.com/#news</loc>
+        <loc>https://www.jshuana-equipment.com/news.html</loc>
         <lastmod>2026-05-30</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://www.jshuana-equipment.com/#contact</loc>
+        <loc>https://www.jshuana-equipment.com/careers.html</loc>
+        <lastmod>2026-05-30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://www.jshuana-equipment.com/contact.html</loc>
+        <lastmod>2026-05-30</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://www.jshuana-equipment.com/en/index.html</loc>
         <lastmod>2026-05-30</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
