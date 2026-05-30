@@ -189,6 +189,14 @@ strong { color: #fff; font-weight: 600; }
 
 .logo-mark svg { display: block; }
 
+.logo-img {
+    height: 40px;
+    width: auto;
+    display: block;
+    filter: brightness(0) invert(1);
+    opacity: 0.9;
+}
+
 .logo-text {
     display: flex;
     flex-direction: column;
