@@ -1,0 +1,32 @@
+User-agent: *
+Allow: /
+Disallow: /css/
+Disallow: /js/
+
+# ===== AI Crawlers (allow all for better AI visibility) =====
+User-agent: GPTBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Omgili
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+# ===== Sitemap =====
+Sitemap: https://www.jshuana-equipment.com/sitemap.xml
